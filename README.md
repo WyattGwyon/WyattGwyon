@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋<br>Let me introduce myself...I'm Clayton...a former English teacher. 
 
 <!--
 **WyattGwyon/WyattGwyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
