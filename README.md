@@ -1,4 +1,5 @@
 ### Hi there 👋<br>Let me introduce myself...I'm Clayton...a former English teacher. 
+I took the plunge into the deep end with programming in Python at Ironhack. They taught me everything I would need to know about working in Data Science. Now, as I look for positions, I keep trimming and pruning my projects🌿. I have a lot of work in progress but I am always moving a piece here and a piece there.   
 
 <!--
 **WyattGwyon/WyattGwyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
