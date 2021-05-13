@@ -1,5 +1,8 @@
-### Hi there 👋<br>Let me introduce myself...I'm Clayton...a former English teacher. 
-I took the plunge into the deep end with programming in Python at Ironhack. They taught me everything I would need to know about working in Data Science. Now, as I look for positions, I keep trimming and pruning my projects🌿. I have a lot of work in progress but I am always moving a piece here and a piece there.   
+### Hi there 👋<br>Let me introduce myself...I'm Clayton...a former ESL teacher. 
+I took the plunge into the deep end with programming in Python at Ironhack. They taught me everything I know about working in Data Science. Now, as I look for positions, I keep trimming and pruning my projects🌿. I have a lot of work in progress but I am always moving pieces here and there and .
+
+### What got into me to move from teaching to programming?
+As a teacher I had clients from 
 
 <!--
 **WyattGwyon/WyattGwyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
