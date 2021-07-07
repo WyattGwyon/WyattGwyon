@@ -1,4 +1,4 @@
-### Hi there 👋<br>I'll to introduce myself...My name is Clayton...a former ESL teacher turned Data Scientist. 
+### Hi there 👋<br>I'll introduce myself...My name is Clayton...a former ESL teacher turned Data Scientist. 
 I took the plunge into the deep end with programming in Python at Ironhack. They taught me everything I know about working in Data. Now, as I look for positions, I am always tending to my projects 🌱 ... And I have a lot of projects in the works...
 
 ---------
